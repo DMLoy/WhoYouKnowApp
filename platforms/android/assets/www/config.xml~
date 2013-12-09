@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="WhoYou.Know" version="0.0.1">
+    <name>WhoYouKnow</name>
+    <description>
+       A small app that sends and recives phonebook data to parse.
+    </description>
+    <author email="the.danielloy@gmail.com">
+        Hi I'm Dan.
+    </author>
+    <content src="contactDisp.html" />
+    <access origin="*" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="true" />
+	<feature name="SplashScreen">
+	    <param name="ios-package" value="CDVSplashScreen" />
+	</feature>
+
+</widget>

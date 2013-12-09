@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script src="parse.min.js"></script>
+    <link href="css/starter-template.css" rel="stylesheet">
+  </head>
+
+  <body>
+    
+      
+    <div class="container">
+    <div class"nav">
+     <div class="row">
+        <div class="col-xs-12 col-md-6">
+            <a href=""><button type="button" class="btn btn-primary btn-lg btn-block">My Contacts</button></a>
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <button type="button" class="btn btn-primary btn-lg btn-block">New Contact</button>
+        </div>
+ 
+      </div>
+    </div>
+    </div>
+    
+    <div class="container">
+
+      <div class="starter-template">
+        <h1>Bootstrap starter template</h1>
+        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+      </div>  
+    
+    <div class="container">
+        <div class="input-group">
+          <span class="input-group-addon">@</span>
+          <input type="text" class="form-control" placeholder="Username">
+        </div>
+        <br></br>
+        <div class="input-group">
+          <input type="text" class="form-control">
+          <span class="input-group-addon">.00</span>
+        </div>
+        <br></br>
+        <div class="input-group">
+          <span class="input-group-addon">$</span>
+          <input type="text" class="form-control">
+          <span class="input-group-addon">.00</span>
+        </div>
+
+    </div>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
