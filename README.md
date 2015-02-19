@@ -1,4 +1,3 @@
-Hi, Thanks for stopping by. This is my code for the Android/PhoneGap app WhoYouKnow which should be live right now. 
+Hi, Thanks for stopping by. This is my code for the Android/PhoneGap app WhoYouKnow.
 
-Thank you, 
-Daniel Loy
+
